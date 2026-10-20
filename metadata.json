@@ -1,0 +1,6 @@
+{
+  "name": "WinBox 10",
+  "description": "Windows 10 Software Runner & Full-Screen Desktop Workspace on Android with PE32/x64 executable loader, Hindi/English Voice Control & TTS, Virtual PC Keyboard, Mouse Trackpad, Background Service, and Phone Hardware Compatibility Manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

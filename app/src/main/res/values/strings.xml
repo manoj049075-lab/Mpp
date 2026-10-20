@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WinBox 10</string>
+    <string name="win_start">Start</string>
+    <string name="upload_exe_cta">Upload Win10 Software (.exe / .msi / .bat)</string>
+    <string name="voice_assistant_title">WinVoice AI &amp; Hindi/English Talk</string>
+    <string name="keyboard_toggle">PC Keyboard</string>
+    <string name="mouse_toggle">Mouse Cursor</string>
+    <string name="fullscreen_toggle">Full Screen</string>
+    <string name="background_service_toggle">Run in Background</string>
+    <string name="permissions_center_title">Phone Permissions &amp; Hardware Specs</string>
+    <string name="notification_channel_name">WinBox 10 Background Engine</string>
+    <string name="notification_channel_desc">Keeps uploaded Windows 10 software running in the background</string>
+</resources>
